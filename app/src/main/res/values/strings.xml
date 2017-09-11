@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AudioListing</string>
+    <string name="articles">Articles</string>
+    <string name="videos">Videos</string>
+    <string name="audios">Audios</string>
+    <string name="diary">Diary</string>
+    <string name="fun">Fun</string>
+</resources>
